@@ -1,7 +1,7 @@
 # Feigenbaum-Trading-Algorithm-Overview
 A systematic quantitative trading strategy that applies chaos theory and nonlinear dynamics to financial markets for regime classification and adaptive signal generation.
 
-## NOTE: FOR TEARSHEET RESULTS, PLEASE SCROLL TO THE BOTTOM OF THE PAGE
+## NOTE: FOR TEARSHEET RESULTS, PLEASE SEE 'FEIGENBAUM STRATEGY.PDF'
 
 **Academic Background**: This work demonstrates advanced understanding of mathematical finance, nonlinear dynamics, and systematic trading system development.
 
